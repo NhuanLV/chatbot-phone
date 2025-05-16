@@ -32,8 +32,8 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"width": 400,
 			"fontSize": 15,
 			"starterPrompts": [
-			  "Tôi cần điện thoại chơi game",
-			  "Tôi cần điện thoại để làm việc"
+			  "Tôi cần đề kiểm tra toán cuối kỳ",
+			  "Tôi cần đề kiểm tra toán giữa kỳ"
 			],
 			"starterPromptFontSize": 14,
 			"clearChatOnReload": false,
