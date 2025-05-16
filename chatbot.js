@@ -25,7 +25,7 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"showTitle": true,
 			"title": "EDVANGARDE AGENT",
 			"titleAvatarSrc": "img/agent2.png",
-			"welcomeMessage": "Chào bạn, bạn đang cần tìm gì ạ?",
+			"welcomeMessage": "Xin chào, tôi là Edvangarde một CHATBOT AI của Trường Tiểu học Văn Khê A, bạn có câu hỏi nào dành cho tôi về đề kiểm tra toán lớp 3, theo bộ sách kết nối tri thức không?",
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
