@@ -16,7 +16,7 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 		  },
 		  "tooltip": {
 			"showTooltip": true,
-			"tooltipMessage": "🤖 Xin chào bạn 👋",
+			"tooltipMessage": "🤖 Xin chào👋",
 			"tooltipBackgroundColor": "#F0F0F9",
 			"tooltipTextColor": "#1c1c1c",
 			"tooltipFontSize": 14
