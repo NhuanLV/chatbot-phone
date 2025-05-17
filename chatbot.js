@@ -25,15 +25,15 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"showTitle": true,
 			"title": "EDVANGARDE AGENT",
 			"titleAvatarSrc": "img/agent2.png",
-			"welcomeMessage": "Xin chào, tôi là Edvangarde một CHATBOT AI của Trường Tiểu học Văn Khê A, bạn có câu hỏi nào dành cho tôi về đề kiểm tra toán, theo bộ sách kết nối tri thức không?",
+			"welcomeMessage": "Chào bạn! Mình là SMARTVANTAGE, một chatbot AI chuyên tư vấn điện thoại. Nếu bạn cần tư vấn điện thoại hoặc cần so sánh các mẫu điện thoại với nhau, hãy cho mình biết nhé!☺️",
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
 			"width": 900,
 			"fontSize": 15,
 			"starterPrompts": [
-			  "Tôi cần đề kiểm tra toán cuối kỳ",
-			  "Tôi cần đề kiểm tra toán giữa kỳ"
+			  "Tư vấn tôi điện thoại chơi game.",
+			  "Tư vấn tôi điện thoại tầm giá 5 triệu"
 			],
 			"starterPromptFontSize": 14,
 			"clearChatOnReload": false,
