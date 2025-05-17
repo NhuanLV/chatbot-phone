@@ -29,7 +29,7 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
-			"width": 400,
+			"width": 900,
 			"fontSize": 15,
 			"starterPrompts": [
 			  "Tôi cần đề kiểm tra toán cuối kỳ",
