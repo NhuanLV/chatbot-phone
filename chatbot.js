@@ -25,7 +25,7 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"showTitle": true,
 			"title": "EDVANGARDE AGENT",
 			"titleAvatarSrc": "img/agent2.png",
-			"welcomeMessage": "Chào bạn! Mình là SMARTVANTAGE, vui lòng nhập MSSV của bạn để xem kết quả học tập, hãy cho mình biết nhé!☺️",
+			"welcomeMessage": "Chào bạn! Mình là EDVANGARDE, vui lòng nhập MSSV của bạn để xem kết quả học tập, hãy cho mình biết nhé!☺️",
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
@@ -59,6 +59,7 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 		  }
 		}
 	  });
+
 
 
 
