@@ -1,6 +1,6 @@
 import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 	  Chatbot.init({
-		"n8nChatUrl": "https://maint09202.app.n8n.cloud/webhook/077901b9-cbe3-429a-8759-2f301b59dca8/chat",
+		"n8nChatUrl": "https://nhuan2000111111.app.n8n.cloud/webhook/63a3426c-f148-4663-9d13-2b1ff5c3b6d5/chat",
 		"theme": {
 		  "button": {
 			"backgroundColor": "#111173",
@@ -23,9 +23,9 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 		  },
 		  "chatWindow": {
 			"showTitle": true,
-			"title": "EDVANGARDE AGENT",
+			"title": "PROMELA",
 			"titleAvatarSrc": "img/agent2.png",
-			"welcomeMessage": "Chào bạn! Mình là EDVANGARDE, vui lòng nhập MSSV của bạn để xem kết quả học tập, hãy cho mình biết nhé!☺️",
+			"welcomeMessage": "Chào bạn! Mình là PROMELA, vui lòng nhập câu hỏi của bạn, hãy cho mình biết nhé!☺️",
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
@@ -52,13 +52,14 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			  "backgroundColor": "#ffffff",
 			  "textColor": "#1e1e1f",
 			  "sendButtonColor": "#111173",
-			  "maxChars": 100,
-			  "maxCharsWarningMessage": "Bạn đã vượt quá giới hạn ký tự. Vui lòng nhập ít hơn 100 ký tự.",
+			  "maxChars": 1000,
+			  "maxCharsWarningMessage": "Bạn đã vượt quá giới hạn ký tự. Vui lòng nhập ít hơn 1000 ký tự.",
 			  "autoFocus": false
 			}
 		  }
 		}
 	  });
+
 
 
 
